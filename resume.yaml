@@ -1,0 +1,102 @@
+name: "Jon Mason"
+email: "jonathan.j.mason@gmail.com"
+phone: "608-577-4807"
+objective: "Work with a great team to make awesome programs."
+school: "University of Chicago, B.A. Math and Physics 2007"
+skills:
+  Python:               1.0
+  Java:                 1.0
+  "C#":                 .7
+  Ruby:                 .9
+  C:                    .8
+  "C++":                .5
+  "Objective C":        .6
+  iOS:                  .6
+  Android:              .8
+  PHP:                  .8
+  "Ruby on Rails":      .8
+  "Asp.Net":            .3
+  WCF:                  .4
+  WPF:                  .4
+  "Adobe Flex":         .9
+  Javascript:           1.0
+  jQuery:               .9
+  Backbone.js:          1.0
+  MongoDb:              1.0
+  J2EE:                 .7
+  Math:                 1.0
+  Statistics:           .9
+  "Machine Learning":   .9
+  Scala:                .8
+  Haskell:              .4
+  Linux:                .9
+  SQL:                  .8
+  Magento:              .7
+  HTML5:                1.0
+  CSS3:                 .8
+  CoffeeScript:         .9
+
+jobs:
+  -
+    title:    "Junior Programmer"
+    employer: "University of Chicago"
+    period:   "November 2007 - June 2009"
+    description: I worked for Academic Technologies providing programming services for faculty and staff.
+                 I was able to learn new languages and frameworks quickly to adapt as the position demanded.
+                 Here are some of the cooler things I made.
+    bullets:
+      - Genetics learning tools to automatically generate problems in computational genetics and provide smart
+        feedback on answers.  This included some serious math and a very tricky image generation task,as well as
+        learning how to integrate with J2EE technologies.
+      - A virtual microscopy lab for medical students.  This is a Rails app with a big dose of Flash that helps med
+        students learn about pathology without having to touch gross samples.  The site is still up at
+        vmicro.uchicago.edu.
+      - A system to help the library manage A.V. equipment.  This was a rather large Adobe Flex user interface that
+        served as a front end for a JAX-WS web service.  This project taught me a lot about user interface design,
+        as well as how to work with backend developers to integrate components of a large system.
+  -
+    title:    "Machine Learning Developer"
+    employer: "Praxeon Inc"
+    period:   "January 2011 - October 2011"
+    description: This started as a small contract to create software to extract titles from PDF documents.  The result
+                 was so succesful that I was asked to stay on and apply machine learning techniques to a variety of
+                 problems related to managing large numbers of medical and scientific papers, patents, and reports.
+                 In addition to learning a lot about cutting edge machine learning techniques, I learned more than
+                 I ever wanted to know about text extraction from PDF documents.
+    bullets:
+      - Brought title extraction from a measly 75% using heuristic methods up to the high 90s using a combination of
+        artificial neural networks and sequence tagging methods.
+      - Wrote code to classify documents on several levels, using techniques including support vector machines and
+        boosting decision tree classifiers.
+      - Wrapped the machine learning code in a RESTful web service that provided automatic management of collections
+        of documents, labels for documents, and trained machine learning models.
+  -
+    title:    "Tech Lead"
+    employer: "Oxford Technology Ventures"
+    period:   "November 2011 - April 2012"
+    description: Developed a mobile dating app using cutting edge technologies.  Minidates.com was a mobile dating
+                 service that offered a number of new features and paradigms.  As tech lead, I oversaw the coding
+                 side of the venture, using new technologies like web mobile, asynchronous io and nosql databases
+                 to help build a complex platform on a tight schedule.
+    bullets:
+      - Created a full stack mobile application, using Python and Tornado for the server, MongoDb for persitence,
+        CoffeeScript, Backbone and jQuery on the client, integration with telophone and sms via Twilio, and native
+        mobile features with PhoneGap.
+      - Developed algorithms to support real time schedule matching and push message notifications on a million user
+        scale using minimal server resources.
+      - Managed a team of developers, designers and testers to deliver a complex application on schedule.
+
+  -
+    title:    "Independent Contractor"
+    employer: "Self Employed"
+    period:   "October 2010 - Present"
+    description: I've worked on a variety of smaller projects over the years.  Here are some of the cooler ones.
+    bullets:
+      - Statistical analysis of performance testing data to automatically spot builds that resulted in deteriorating
+        performance.
+      - Bar code scanner in ActionScript with noise tolerance sufficient to work with web cameras.
+      - Magento plugins to manage specialized inventory and integrate with legacy point of sale software.
+      - Time tracking client for use with open source project management systems.
+      - Python extension for high performance poker odds calculations.
+      - Heads up display for internet poker clients using DLL injection to interact with the host process.
+
