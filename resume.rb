@@ -1,4 +1,4 @@
-#!/bin/env ruby
+#!/usr/bin/env ruby
 # encoding: utf-8
 
 require "yaml"
@@ -32,7 +32,7 @@ module Resume
     end
 
 
-    def render
+    def render _
       #pdf.font "fonts/Rufina-Regular.ttf"
       font "Helvetica"
       puts @me,@me.name

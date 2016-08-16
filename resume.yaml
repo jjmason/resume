@@ -6,37 +6,42 @@ school: "University of Chicago, B.A. Math and Physics 2007"
 skills:
   Python:               1.0
   Java:                 1.0
-  "C#":                 .7
-  Ruby:                 .9
+  Ruby:                 1.0
   C:                    .8
-  "C++":                .5
-  "Objective C":        .6
-  iOS:                  .6
+  "C++":                .8
   Android:              .8
-  PHP:                  .8
-  "Ruby on Rails":      .8
-  "Asp.Net":            .3
-  WCF:                  .4
-  WPF:                  .4
-  "Adobe Flex":         .9
-  Javascript:           1.0
-  jQuery:               .9
-  Backbone.js:          1.0
-  MongoDb:              1.0
-  J2EE:                 .7
-  Math:                 1.0
-  Statistics:           .9
+  "Ruby on Rails":      1.0
+  Javascript:           .8
+  jQuery:               .7
+  React:                1.0
+  MongoDb:              .7
+  Postgresql:           .9
   "Machine Learning":   .9
-  Scala:                .8
+  Math:                 .9
+  Scala:                .7
   Haskell:              .4
   Linux:                .9
   SQL:                  .8
-  Magento:              .7
-  HTML5:                1.0
-  CSS3:                 .8
-  CoffeeScript:         .9
+  HTML5:                .4
+  CSS3:                 .4
+  Docker:               1.0
+  Security:             .9
+  DevOps:               .8
+  "High Availability":  .9
 
 jobs:
+  -
+    title: "Platform Developer"
+    employer: "Conjur Inc"
+    period: "April 2013 - August 2016"
+    description: Helped build powerful enterprise security tools, focused on authorization and access control for both humans and machines.
+    bullets:
+      - Developed highly available web services used by companies including Netflix to secure infrastructure.
+      - Used Postgresql to provide high performance for complex queries.
+      - Designed and built a complex microservice architechture to provide a rich feature set around a simple core.
+      - Maintained high security standards without compromising useability.
+      - Built high performance integrations with LDAP and Active Directory.
+
   -
     title:    "Junior Programmer"
     employer: "University of Chicago"
